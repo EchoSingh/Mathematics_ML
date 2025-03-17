@@ -1,4 +1,4 @@
-# Prime Number Prediction using Machine Learning & Deep Learning
+# MML
 
 ## Overview
 This project explores **prime number prediction** using Machine Learning (ML) and Deep Learning (DL). We train models to classify whether a number is **prime or composite** using various algorithms, including:
