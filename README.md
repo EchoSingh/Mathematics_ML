@@ -29,12 +29,6 @@ The dataset consists of **randomly generated integers** labeled as **prime (1) o
       !pip install gradio
   ```
 
-## Future Improvements
-- Train on larger datasets (millions of numbers)
-- Optimize deep learning architecture for efficiency
-- Implement reinforcement learning for number theory exploration
-- Extend to **prime factorization** & **Mersenne prime detection**
-
 ## License
 This project is **open-source** under the [MIT License](LICENSE).
 
