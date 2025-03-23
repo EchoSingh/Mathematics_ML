@@ -1,4 +1,4 @@
-# MML
+# Mathematics ML
 
 
 ## Run it on google collab 
