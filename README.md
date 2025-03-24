@@ -1,6 +1,5 @@
 # Mathematics ML
 
-
 ## Run it on google collab 
    Make sure to run 
    ```bash
